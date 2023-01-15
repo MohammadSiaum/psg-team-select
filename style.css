@@ -1,0 +1,14 @@
+
+.header-section {
+    background:url(images/psg_bg1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    font-family: 'Berkshire Swash';
+}
+.bg-custom {
+    background: #0D0D0D;
+    ;
+}
